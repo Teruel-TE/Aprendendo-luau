@@ -1,0 +1,13 @@
+O Workspace é o serviço que contém os objetos presentes no mundo 3D do jogo: peças, terrenos,
+ modelos e muito mais.
+No Explorer, você deve encontrar algo parecido com isto:
+
+
+Workspace  
+    Baseplate
+    Camera
+so os que importam
+
+Podemos acessar esse serviço assim:
+
+local Workspace = game:GetService("Workspace")

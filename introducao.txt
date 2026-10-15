@@ -1,0 +1,11 @@
+
+
+aqui guardarei anotacoes sobre oque cada coisa no roblox studio faz, infelismente o 
+roblox studios nao consegue retirar as informacoes dele, entao para eu  n perder seu ensinamento,
+guardarei chaves e informacoes uteis caso eu precise revisar o conteudo.
+
+tambem registrarei aqui os codigos em .lua, entretanto grande chance dele mostrar erros
+ por conta de ser uma linguagem diferente.
+
+ASS- Teruel
+ASS- Jonkson

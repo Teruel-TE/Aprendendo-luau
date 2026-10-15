@@ -1,0 +1,6 @@
+1. O que são serviços?
+No Roblox, os serviços são sistemas que oferecem funcionalidades do jogo. Por exemplo:
+- Players: jogadores conectados.
+- Workspace: o mundo 3D.
+- ReplicatedStorage: objetos que servidor e cliente podem acessar.
+- ServerStorage: armazenamento acessível ao servidor.
